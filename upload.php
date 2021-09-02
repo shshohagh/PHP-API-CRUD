@@ -1,8 +1,5 @@
 <?php 
 
-// chmod 777 /Applications/XAMPP/xamppfiles/htdocs/tut
-// chmod 777 /Applications/MAMP/htdocs/tut
-
 header('Content-Type: application/json');
 
 try {

@@ -2,7 +2,7 @@
 /*
 Company Nmae: SKS IT FIRM
 URL: sksitfirm.net
-Lisence: MIT
+License: MIT
 */
 
 
